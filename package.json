@@ -1,5 +1,5 @@
 {
-  "name": "ember",
+  "name": "ember-ui",
   "version": "0.1.2",
   "main": "./index.ts",
   "type": "module",
