@@ -4,8 +4,8 @@ import { join } from 'path'
 
 export default defineNuxtModule({
   meta: {
-    name: 'ember',
-    configKey: 'ember'
+    name: 'ember-ui',
+    configKey: 'ember-ui'
   },
   async setup(_, nuxt) {
     const rootDir = fileURLToPath(new URL('.', import.meta.url))
